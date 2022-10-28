@@ -1,0 +1,16 @@
+img {
+    /* margin-top: 10px; */
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+}
+
+.ui.middle.aligned.divided.list {
+    margin: 0 10px;
+}
+
+.ui.middle.aligned.divided.list .item img {
+    width: 70px;
+    height: 70px;
+    object-fit: cover;
+}
